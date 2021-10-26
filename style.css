@@ -1,0 +1,56 @@
+
+
+.box-1{
+  background: #988;
+  padding: 30px;
+  width: 50px;
+  height: 60px;
+  margin: 0%;
+  border: 2px solid;
+  margin: 6%;
+  box-shadow: 13px 4px 5px ;
+
+}
+.box-2{
+    position: absolute;
+    border: 3px solid;
+    margin: 5%;
+    padding: 20px;
+    box-shadow: 12px 3px 4px ;
+
+}
+.box-2{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 200px;
+    background-color: #988;
+}
+.box-3{
+    position: relative;
+    border: 2px  solid;
+    padding: 2px;
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    top: 2px;
+    margin: 7%;
+    right: 3px;
+    background:red;
+    box-shadow: 12px 3px 4px ;
+
+
+}
+.box-4{
+    border: 3px solid;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position:absolute;
+    top: 1px;
+    right: 3px;
+    margin: 33%;
+    box-shadow: 12px 3px 4px ;
+
+}
